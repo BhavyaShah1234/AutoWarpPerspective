@@ -8,7 +8,7 @@ def click_event(event, x_cord, y_cord, flags, param):
         x, y = x_cord, y_cord
 
 
-img_path = r'CV All\scan.jpg'
+img_path = 'cards.jpg'
 x, y = -1, -1
 pts1 = []
 while len(pts1) < 4:
