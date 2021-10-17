@@ -11,4 +11,11 @@ Apply warp perspective with just 4 clicks.
 <br>
 <img src="https://github.com/BhavyaShah1234/AutoWarpPerspective/blob/main/Screenshot%202021-10-16%20141505.png">
 
-<marquee width="60%" direction="left" height="100px">I also created a class to do the same</marquee>
+<b>I also created a class to do the same</b>
+<h1>
+  See
+  &nbsp;
+  <a href="https://github.com/BhavyaShah1234/AutoWarpPerspective/blob/main/AutoWarpPerspectiveClass.py">
+    this
+  </a>
+<h1>
